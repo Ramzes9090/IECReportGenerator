@@ -1,0 +1,32 @@
+[
+  {
+    "WindClass": "1a",
+    "Height": 70,
+    "Power": 5,
+    "BladeLength": 50
+  },
+  {
+    "WindClass": "1b",
+    "Height": 100,
+    "Power": 8,
+    "BladeLength": 65
+  },
+  {
+    "WindClass": "2a",
+    "Height": 120,
+    "Power": 5,
+    "BladeLength": 80
+  },
+  {
+    "WindClass": "1a",
+    "Height": 120,
+    "Power":10,
+    "BladeLength": 50
+  },
+  {
+    "WindClass": "3b",
+    "Height": 160,
+    "Power": 11,
+    "BladeLength": 115
+  }
+]
